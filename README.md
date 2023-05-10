@@ -11,6 +11,9 @@
 課程筆記區：
 
 作業連結區：
+[HW1](https://github.com/aegsgrsg13555/plrepo/blob/main/task1.ipynb)
+
+[HW2]
 
 專題連結區：
 [健身APP](https://docs.google.com/presentation/d/114dnHpPdz7DAhRkNZ8LUskUZGcrh9dKK-yjxK3hZEvM/edit#slide=id.p)
