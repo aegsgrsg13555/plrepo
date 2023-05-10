@@ -14,7 +14,7 @@
 作業連結區：
 [HW1](https://github.com/aegsgrsg13555/plrepo/blob/main/task1.ipynb)
 
-[HW2]
+[HW2](https://github.com/aegsgrsg13555/plrepo/blob/main/Untitled1.ipynb)
 
 
 
