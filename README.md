@@ -23,7 +23,8 @@
 [medium](https://medium.com/@41071232h/%E5%90%84%E5%B9%B4%E5%BA%A6%E9%9F%B3%E6%A8%82%E8%A1%A8%E7%8F%BE%E6%95%B8%E6%93%9A%E5%88%86%E6%9E%90-3fe1a33cea5a)
 
 [HW5](https://github.com/aegsgrsg13555/plrepo/blob/main/HW5.ipynb)
-[medium]
+[medium]（https://medium.com/@41071232h/110-111%E5%B9%B4%E4%BB%BD%E6%BE%8E%E6%B9%96%E8%A7%80%E5%85%89%E6%95%B8%E6%93%9A%E5%88%86%E6%9E%90-58f9fd1ac809）
+
 
 專題連結區：
 [健身APP](https://docs.google.com/presentation/d/114dnHpPdz7DAhRkNZ8LUskUZGcrh9dKK-yjxK3hZEvM/edit#slide=id.p)
