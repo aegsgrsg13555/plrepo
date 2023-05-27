@@ -17,6 +17,8 @@
 
 [HW2](https://github.com/aegsgrsg13555/plrepo/blob/main/Untitled1.ipynb)
 
+[HW3](https://github.com/aegsgrsg13555/plrepo/blob/main/HW3.ipynb)
+
 [HW4](https://github.com/aegsgrsg13555/plrepo/blob/main/HW4.ipynb)
 
 專題連結區：
