@@ -17,7 +17,7 @@
 
 [HW2](https://github.com/aegsgrsg13555/plrepo/blob/main/Untitled1.ipynb)
 
-
+[HW4](https://github.com/aegsgrsg13555/plrepo/blob/main/HW4.ipynb)
 
 專題連結區：
 [健身APP](https://docs.google.com/presentation/d/114dnHpPdz7DAhRkNZ8LUskUZGcrh9dKK-yjxK3hZEvM/edit#slide=id.p)
